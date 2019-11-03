@@ -1,11 +1,9 @@
 ---
-title: 'Articles of the week [28-03, Nov 2019]'
+title: 'The best articles of the week [28-03, Nov 2019]'
 date: 2019-11-03
-permalink: /posts/2019/11/best-articles/
+permalink: /posts/2019/11/03/best-articles/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - best-articles
 ---
 
 > The latest articles from the most prominent A.I scientists.

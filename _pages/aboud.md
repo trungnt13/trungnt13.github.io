@@ -10,7 +10,7 @@ redirect_from:
 
 I am Trung, doctoral student at University of Eastern Finland.
 
-My work focus on:
+My works focus on:
 
 * Deep Learning
 * Probabilistic Graphical Models
